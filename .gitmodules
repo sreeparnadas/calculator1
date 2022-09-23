@@ -1,0 +1,6 @@
+[submodule "calculator_backend"]
+	path = calculator_backend
+	url = https://github.com/sreeparnadas/calculator_backend.git
+[submodule "calculator_frontend"]
+	path = calculator_frontend
+	url = https://github.com/sreeparnadas/calculator_frontend.git
